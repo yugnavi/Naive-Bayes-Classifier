@@ -1,4 +1,4 @@
-# Naive Bayes Spam Filter (TREC06)
+# Naive Bayes Classifier
 
 A from-scratch Bernoulli-style Naive Bayes classifier that labels emails from the TREC06 corpus as **spam** or **ham**. The notebook covers:
 
@@ -184,7 +184,7 @@ The notebook looks for the dataset at `../trec06p-cs280` and writes outputs to `
 project/
 ├── trec06p-cs280/            # unzipped dataset
 ├── results/                  # created automatically
-└── AI_projects/              # this repository
+└── Naive-Bayes-Classifier/    # this repository
     └── naive_bayes_improved.ipynb
 ```
 
