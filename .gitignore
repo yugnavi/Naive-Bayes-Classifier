@@ -1,0 +1,9 @@
+# Dataset (download separately)
+*.zip
+trec06p-cs280/
+results/
+
+# OS / editor
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
